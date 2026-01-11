@@ -22,7 +22,7 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 - **Node.js**: JavaScript runtime environment for executing server-side code.
 - **Redux**: State management library for managing application state in React.js.
 - **JWT Authentication**: JSON Web Tokens used for user authentication and authorization.
-- **Chakra-UI**: React components for implementing Google's Material Design.
+
 
 ### Home Page
 ![Home Page](/screenshots/home_page.png)
